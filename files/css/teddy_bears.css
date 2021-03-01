@@ -23,6 +23,10 @@
     margin-bottom: 1em;
 }
 
+#what-we-doing p{
+    color: rgb(36, 36, 36);
+    font-size: 25px;
+}
 #small-image-collection {
     overflow: auto;
     clear: both;
