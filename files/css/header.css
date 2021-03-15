@@ -1,5 +1,6 @@
 header {
     overflow: auto;
+    
 }
 
 #wustl-branding {
@@ -20,6 +21,7 @@ header {
     max-width: 71em;
     margin-left: auto;
     margin-right: auto;
+
 }
 
 #washu-logo {
@@ -51,6 +53,7 @@ header {
     overflow: hidden;
     background-color: #3d3d3d;
     font-family: Arial;
+
 }
 
 
